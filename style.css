@@ -81,6 +81,12 @@ body
     text-align: center;
     padding: 20px;
 }
+.box>.box4
+{
+    margin-top: 15px;
+    text-align: center;
+    padding: 20px;
+}
 .footer
 {
     
